@@ -7,4 +7,6 @@
 #redis:5.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node
+#node
+ubuntu:22.04
+python:3.11.15
