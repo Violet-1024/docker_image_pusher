@@ -6,7 +6,7 @@
 #jdk:1.8
 #redis:5.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 #node
-ubuntu:22.04
+--platform=linux/arm64 ubuntu:22.04
 #python:3.11.15
