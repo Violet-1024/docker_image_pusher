@@ -10,4 +10,4 @@
 #node
 #--platform=linux/arm64 ubuntu:22.04
 #python:3.11.15
-moby/buildkit:buildx-stable-1
+buildkit:buildx-stable-1
