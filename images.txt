@@ -11,4 +11,4 @@
 #--platform=linux/arm64 ubuntu:22.04
 #python:3.11.15
 #buildkit:buildx-stable-1
-langgenius/dify-sandbox:0.2.15
+langgenius/dify-sandbox:latest
