@@ -11,4 +11,7 @@
 #--platform=linux/arm64 ubuntu:22.04
 #python:3.11.15
 #buildkit:buildx-stable-1
-langgenius/dify-sandbox:latest
+#langgenius/dify-sandbox:latest
+
+eclipse-temurin:8-jre-jammy
+
